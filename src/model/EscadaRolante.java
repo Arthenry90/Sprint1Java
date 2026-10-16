@@ -12,7 +12,7 @@ import java.util.Objects;
  * O histórico de medições poderá ser modelado separadamente, caso
  * o projeto precise armazenar leituras realizadas em diferentes horários.</p>
  *
- * @author Grupo do Challenge
+ * @author Arthenry
  * @version 1.0
  * @see EquipamentoMonitorado
  * @see Localizacao

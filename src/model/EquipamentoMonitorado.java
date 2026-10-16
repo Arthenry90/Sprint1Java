@@ -9,7 +9,7 @@ package model;
  * <p>Por ser abstrata, esta classe não é instanciada diretamente. Seus
  * comportamentos são herdados por classes concretas, como EscadaRolante.</p>
  *
- * @author Grupo do Challenge
+ * @author Arthenry
  * @version 1.0
  */
 public abstract class EquipamentoMonitorado {

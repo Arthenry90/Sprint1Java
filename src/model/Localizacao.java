@@ -6,7 +6,7 @@ package model;
  * <p>Permite identificar o local e organizar os equipamentos por endereço
  * ou setor, facilitando a centralização das informações de monitoramento.</p>
  *
- * @author Grupo do Challenge
+ * @author Arthenry
  * @version 1.0
  */
 public class Localizacao {

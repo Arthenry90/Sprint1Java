@@ -7,7 +7,7 @@ import model.Localizacao;
  * <p>Cria objetos de exemplo e demonstra a impressão dos dados
  * das entidades modeladas.</p>
  *
- * @author Grupo do Challenge
+ * @author Artur
  * @version 1.0
  */
 public class Main {
